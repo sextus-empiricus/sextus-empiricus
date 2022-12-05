@@ -2,7 +2,7 @@
 <span style="color: #a87cf8; font-weight: 600">"Hello World!🫡"</span>
 )</h3>
 <p>
-My name is Yaakov, and I'm programming enthusiast, interested in Web development, both from Frontend and Back-end side. In my spare time I like to play music instruments and learn a new things.
+My name is Yaakov, and I'm programming enthusiast, interested in Web development, both from Frontend and Back-end side. In my spare time I like to play music instruments and learn new things.
 </p>
 <hr>
 
